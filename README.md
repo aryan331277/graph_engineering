@@ -1,5 +1,7 @@
 # Adaptive Graph Harness (AGH)
 
+still a work in progress.....integrating with current systems tooo
+
 **An execution optimizer for agentic workloads — not another agent framework.**
 
 Central question: **how much computation can we avoid while still producing the same-quality result?**
